@@ -1,0 +1,42 @@
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\obj\Debug\netcoreapp3.1\Ball Hurdles.csprojAssemblyReference.cache
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\obj\Debug\netcoreapp3.1\Ball Hurdles_MarkupCompile.cache
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\bin\Debug\netcoreapp3.1\Ball Hurdles.exe
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\bin\Debug\netcoreapp3.1\Ball Hurdles.deps.json
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\bin\Debug\netcoreapp3.1\Ball Hurdles.runtimeconfig.json
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\bin\Debug\netcoreapp3.1\Ball Hurdles.runtimeconfig.dev.json
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\bin\Debug\netcoreapp3.1\Ball Hurdles.dll
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\bin\Debug\netcoreapp3.1\Ball Hurdles.pdb
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\obj\Debug\netcoreapp3.1\Ball Hurdles_MarkupCompile.lref
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\obj\Debug\netcoreapp3.1\Ball Hurdles.g.resources
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\obj\Debug\netcoreapp3.1\Ball Hurdles.AssemblyInfoInputs.cache
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\obj\Debug\netcoreapp3.1\Ball Hurdles.AssemblyInfo.cs
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\obj\Debug\netcoreapp3.1\Ball Hurdles.dll
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\obj\Debug\netcoreapp3.1\Ball Hurdles.pdb
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\obj\Debug\netcoreapp3.1\Level1.g.cs
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\obj\Debug\netcoreapp3.1\Level1.baml
+C:\Users\Steve\Desktop\Coding Information\Ball Hurdles\obj\Debug\netcoreapp3.1\Window1.baml
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\bin\Debug\netcoreapp3.1\Ball Hurdles.exe
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\bin\Debug\netcoreapp3.1\Ball Hurdles.deps.json
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\bin\Debug\netcoreapp3.1\Ball Hurdles.runtimeconfig.json
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\bin\Debug\netcoreapp3.1\Ball Hurdles.runtimeconfig.dev.json
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\bin\Debug\netcoreapp3.1\Ball Hurdles.dll
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\bin\Debug\netcoreapp3.1\Ball Hurdles.pdb
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\obj\Debug\netcoreapp3.1\Ball Hurdles.csprojAssemblyReference.cache
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\obj\Debug\netcoreapp3.1\Level1.g.cs
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\obj\Debug\netcoreapp3.1\Ball Hurdles_MarkupCompile.cache
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\obj\Debug\netcoreapp3.1\Ball Hurdles_MarkupCompile.lref
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\obj\Debug\netcoreapp3.1\Level1.baml
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\obj\Debug\netcoreapp3.1\Window1.baml
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\obj\Debug\netcoreapp3.1\Ball Hurdles.g.resources
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\obj\Debug\netcoreapp3.1\Ball Hurdles.AssemblyInfoInputs.cache
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\obj\Debug\netcoreapp3.1\Ball Hurdles.AssemblyInfo.cs
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\obj\Debug\netcoreapp3.1\Ball Hurdles.dll
+C:\Users\Steve\source\repos\BallHurdleGame\Ball Hurdles\obj\Debug\netcoreapp3.1\Ball Hurdles.pdb

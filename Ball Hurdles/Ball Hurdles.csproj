@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Ball_Hurdles</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Hurdle2.jpg" />
+    <None Remove="Images\HurdleImage.jpg" />
+    <None Remove="Images\Meme.jpg" />
+    <None Remove="Images\Sphere.png" />
+    <None Remove="Images\Track.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Hurdle2.jpg" />
+    <Resource Include="Images\HurdleImage.jpg" />
+    <Resource Include="Images\Meme.jpg" />
+    <Resource Include="Images\Sphere.png" />
+    <Resource Include="Images\Track.jpg" />
+  </ItemGroup>
+
+</Project>
